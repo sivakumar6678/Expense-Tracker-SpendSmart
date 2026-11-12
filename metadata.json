@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker Pro",
+  "description": "A modern, beautiful, and secure real-world finance management application built with Jetpack Compose and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
